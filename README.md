@@ -2,7 +2,8 @@
 
  
 --- IMG de el Loguin
-![image](https://github.com/Anderson-BM/login-Acceso/assets/141085108/3bf601fa-f032-4b0a-8614-98c58814a948)
+![image](https://github.com/Anderson-BM/login-Acceso/assets/141085108/94c6faf0-d128-4b54-aaf6-1ded10b9a0b6)
+
 
 
 
